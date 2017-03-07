@@ -1,8 +1,32 @@
 # Udacity-DLFoudation
 Nano Degree Program of Deep Learning Foundation
 
-## project 1 - Your First Neural Network
+## Folder Tree
 
-DLND-your-first-network
+### week1
+
+### week2
+
+*project1 - Your First Neural Network*
+
+### week3
+
+### week4
+
+### week5
+
+*project2 - Image Classification*
+
+### week6
+
+### week7
+
+### week8
+
+### week9
+
+### week10
+
+### week11
 
 
