@@ -3,19 +3,23 @@ Nano Degree Program of Deep Learning Foundation
 
 ## Folder Tree
 
+### project1
+
+*project1 - Your First Neural Network*
+
+### project2
+
+*project2 - Image Classification*
+
 ### week1
 
 ### week2
-
-*project1 - Your First Neural Network*
 
 ### week3
 
 ### week4
 
 ### week5
-
-*project2 - Image Classification*
 
 ### week6
 
