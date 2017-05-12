@@ -110,7 +110,7 @@ Well done! :clap:
 
 I get the following results when I run your model for a sample sentence. Quite correct!
 
-'''
+```
 Input
   Word Ids:      [136, 90, 123, 80, 42, 221, 94, 145, 215, 90, 61, 209, 124, 140, 154]
   English Words: ['california', 'is', 'never', 'cold', 'during', 'february', ',', 'but', 'it', 'is', 'sometimes', 'freezing', 'in', 'june', '.']
@@ -118,7 +118,7 @@ Input
 Prediction
   Word Ids:      [327, 15, 99, 6, 341, 142, 164, 50, 199, 108, 304, 19, 145, 281, 142, 278, 70]
   French Words: ['californie', 'ne', 'fait', 'jamais', 'froid', 'en', 'février', ',', 'mais', 'il', 'est', 'parfois', 'le', 'gel', 'en', 'juin', '.']
-'''
+```
 
 Try it out on the larger dataset now if you can!
 
